@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on open source initatives, particularly digital wallet education.
 - 📫 How to reach me kal@bitcoinbirr.org.
 
+Telegram
+BitcoinBirr discussion and coordination happens on the Telegram chat platform.
+
+Download the Telegram app and join the BITCOINBIRR group t.me/bitcoinbirr.
+
+The companion Telegram channel BITCOINETHIO Library contains high quality materials collected from chat group traffic.
+
 ![Asset 9](https://user-images.githubusercontent.com/87287532/125218344-600fa600-e288-11eb-956a-9d15511b5558.png)
 
 Our branding process was simple-- two wallets coming together, reflected in the blocks. Our brand guideline PDF and all high resolution JPEGs of the assets will be uploaded here.
