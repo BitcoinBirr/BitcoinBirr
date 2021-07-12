@@ -12,7 +12,7 @@ I’m [BitcoinBirr](bitcoinbirr.org) :ethiopia:
 
 > Looking to collaborate on open source initiatives, particularly digital wallet education.
 
-> How to reach me :email: kal@bitcoinbirr.org
+> How to reach me kal@bitcoinbirr.org
 
 # Organization
 
