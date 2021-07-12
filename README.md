@@ -41,21 +41,21 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 > [BitcoinNakfa, Telegram](https://t.me.bitcoinnakfa)
 
-> [One Love Bitcoin/ Swan Bitcoin, YouTube](https://www.youtube.com/watch?v=Y2LieS43mVA)
-
-> [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
-
-> [Check Your Financial Privilege, Bitcoin Magaizne](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
-
-> [Shitcoin Millionaire, Kal Kassa](https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff)
-
-> [Number of User Go Up, Lightning Labs](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
-
 > [@KalKassa, Twitter](https://twitter.com/KalKassa)
 
 > [@BitcoinBirr, Twitter](https://twitter.com/BitcoinBirr)
 
 > [@BitcoinNakfa, Twitter](https://twitter.com/BitcoinNakfa)
+
+> [One Love Bitcoin/ Swan Bitcoin, YouTube (B.Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
+
+> [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine (K.Kassa)](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
+
+> [Check Your Financial Privilege, Bitcoin Magaizne (A.Gladstein)](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
+
+> [Shitcoin Millionaire, Medium (K.Kassa)](https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff)
+
+> [Number of User Go Up, Lightning Labs (R.Gentry)](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
 
 **Sign Change.org Petition** 
 [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
