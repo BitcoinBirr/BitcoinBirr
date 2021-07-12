@@ -4,13 +4,13 @@ I’m @BitcoinBirr
 
 ![Asset 5](https://user-images.githubusercontent.com/87287532/125222262-550c4400-e28f-11eb-85f3-41eb983e265a.png)
 
-Interested in bitcoin as it relates to ascending countries.
+> Interested in bitcoin as it relates to ascending countries.
 
-Currently learning bitcoin and energy production.
+> Currently learning bitcoin and energy production.
 
-Looking to collaborate on open source initiatives, particularly digital wallet education.
+> Looking to collaborate on open source initiatives, particularly digital wallet education.
 
-How to reach me kal@bitcoinbirr.org.
+> How to reach me kal@bitcoinbirr.org.
 
 **Media and Content**
 
@@ -30,21 +30,25 @@ https://bitcoinmagazine.com/culture/bitcoin-is-humanitarian-and-environmental
 
 **Telegram**
 
-BitcoinBirr discussion and coordination happens on the Telegram chat platform.
+BitcoinBirr discussion and coordination happens on the Telegram chat platform. We also have giveaways of 200 and 500sats to experience a transaction and learn the functions of a lightning wallet on layer two.
 
-Download the Telegram app and join the BITCOINBIRR group https://t.me/bitcoinbirr.
+> Download the Telegram app and join the BITCOINBIRR group https://t.me/bitcoinbirr.
 
-The companion Telegram channel BITCOINETHIO Library contains high quality materials collected from chat group traffic.
+> The companion Telegram channel BITCOINETHIO Library contains high quality materials collected from chat group traffic.
 
 ![Asset 9](https://user-images.githubusercontent.com/87287532/125218344-600fa600-e288-11eb-956a-9d15511b5558.png)
 
-Our branding process was simple-- two wallets coming together, reflected in the blocks. Our brand guideline PDF and all high resolution JPEGs of the assets will be uploaded here.
+**Branding**
+
+Our branding process was simple-- two wallets coming together, reflected in the blocks. Our brand guideline PDF and all high resolution JPEGs of the assets will be uploaded here in due time.
 
 ![pexels-kureng-workx-4314674-small](https://user-images.githubusercontent.com/87287532/125218601-f5ab3580-e288-11eb-928c-dbfd63c546d7.jpg)
 
 **Bitcoin education in East Africa**
 
 ![US-Dollar-outlook-2](https://user-images.githubusercontent.com/87287532/125218502-b7ae1180-e288-11eb-87ee-a6448fce21a1.jpeg)
+
+Education materials to be released as PDFs in this GitHub.com/bitcoinbirr/README.md 
 
 **Bitcoin Legal Tender for Ethiopia**
 
