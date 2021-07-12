@@ -1,6 +1,7 @@
 # BitcoinBirr.org
 
-![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125337927-351f6380-e315-11eb-9674-5fbecc1dfbf8.jpg)
+![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125344446-f42b4d00-e31c-11eb-88a7-9eed74ac5149.jpg)
+
 
 **Hello World**
 
