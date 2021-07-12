@@ -70,6 +70,16 @@ As a global non-profit, the OSI champions software freedom in society through ed
 
 Open source software is made by many people and distributed under an OSD-compliant license which grants all the rights to use, study, change, and share the software in modified and unmodified form. Software freedom is essential to enabling community development of open source software. [Learn more about Open Source](opensource.org)
 
+**Project Plan**
+
+| No.  | Deliverable | Date |
+| ---- | ----------- | ---- |
+| 001  | TBD  | ---- |
+| 002  | TBD  | ---- |
+| 003  | TBD  | ---- |
+| 004  | TBD  | ---- |
+| 005  | TBD  | ---- |
+
 #Bitcoin
 #Ethiopia
 #Education
