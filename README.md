@@ -1,12 +1,12 @@
 **Hello World**
 
-I’m @BitcoinBirr
+I’m BitcoinBirr.org
 
 ![Asset 5](https://user-images.githubusercontent.com/87287532/125222262-550c4400-e28f-11eb-85f3-41eb983e265a.png)
 
 > Interested in bitcoin as it relates to ascending countries.
 
-> Currently learning bitcoin and energy production.
+> Currently learning bitcoin and mining/ renewable energy production.
 
 > Looking to collaborate on open source initiatives, particularly digital wallet education.
 
