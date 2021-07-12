@@ -38,19 +38,18 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 **Media and Content**
 
-https://www.youtube.com/watch?v=Y2LieS43mVA
+[t.me/BitcoinBirr, Telegram Group](https://t.me/bitcoinbirr)
 
-https://t.me/bitcoinbirr
+[https://www.youtube.com/watch?v=Y2LieS43mVA
+
 
 https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin
+
+https://bitcoinmagazine.com/culture/check-your-financial-privilege
 
 https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff
 
 https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is
-
-https://bitcoinmagazine.com/culture/check-your-financial-privilege
-
-https://bitcoinmagazine.com/culture/bitcoin-is-humanitarian-and-environmental
 
 https://twitter.com/KalKassa
 
