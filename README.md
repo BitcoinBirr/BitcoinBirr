@@ -10,7 +10,7 @@ Currently learning bitcoin and energy production.
 
 Looking to collaborate on open source initiatives, particularly digital wallet education.
 
-How to reach me kal@didibold.com.
+How to reach me kal@bitcoinbirr.org.
 
 **Media and Content**
 
