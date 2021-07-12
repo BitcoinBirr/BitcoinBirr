@@ -13,7 +13,6 @@ I’m [BitcoinBirr](bitcoinbirr.org)
 > Looking to collaborate on open source initiatives, particularly digital wallet education.
 
 > How to reach me kal@bitcoinbirr.org :email:
-:envelope:
 
 # Organization
 
