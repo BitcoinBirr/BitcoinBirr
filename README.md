@@ -1,4 +1,4 @@
-#BitcoinBirr.org
+# BitcoinBirr.com
 
 **Hello World**
 
