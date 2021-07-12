@@ -65,7 +65,7 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 #Education
 #OpenSource
 
-Hosting provided by [KalKassa.com](kalkassa.com)
+Hosting provided by [kal@didibold.com](kal@didibold.com)
 
 ![Footer - GitHub](https://user-images.githubusercontent.com/87287532/125327520-d2c06600-e308-11eb-913f-fb8df03b2abb.jpg)
 
