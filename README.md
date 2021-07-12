@@ -12,7 +12,7 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 How to reach me kal@didibold.com.
 
-Media and Content
+**Media and Content**
 
 https://www.youtube.com/watch?v=Y2LieS43mVA
 
@@ -28,7 +28,7 @@ https://bitcoinmagazine.com/culture/check-your-financial-privilege
 
 https://bitcoinmagazine.com/culture/bitcoin-is-humanitarian-and-environmental
 
-Telegram
+**Telegram**
 
 BitcoinBirr discussion and coordination happens on the Telegram chat platform.
 
@@ -42,11 +42,11 @@ Our branding process was simple-- two wallets coming together, reflected in the 
 
 ![pexels-kureng-workx-4314674-small](https://user-images.githubusercontent.com/87287532/125218601-f5ab3580-e288-11eb-928c-dbfd63c546d7.jpg)
 
-Bitcoin education in East Africa.
+**Bitcoin education in East Africa**
 
 ![US-Dollar-outlook-2](https://user-images.githubusercontent.com/87287532/125218502-b7ae1180-e288-11eb-87ee-a6448fce21a1.jpeg)
 
-Bitcoin Legal Tender for Ethiopia
+**Bitcoin Legal Tender for Ethiopia**
 
 ![Petition - Image](https://user-images.githubusercontent.com/87287532/125222405-8ab12d00-e28f-11eb-9495-417101f894a6.png)
 
