@@ -60,12 +60,12 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 **Sign Change.org Petition** 
 [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
-Hosting provided by [KalKassa.com](kalkassa.com)
-
 #Bitcoin
 #Ethiopia
 #Education
 #OpenSource
+
+Hosting provided by [KalKassa.com](kalkassa.com)
 
 ![Footer - GitHub](https://user-images.githubusercontent.com/87287532/125327520-d2c06600-e308-11eb-913f-fb8df03b2abb.jpg)
 
