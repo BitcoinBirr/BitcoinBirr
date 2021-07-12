@@ -68,7 +68,7 @@ Sign Change.org Petition [Here](https://www.change.org/p/ministry-of-finance-and
 #Education
 #OpenSource
 
-Hosting provided by kalkassa.com
+Hosting provided by [KalKassa.com](kalkassa.com)
 
 <!---
 BitcoinBirr/BitcoinBirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
