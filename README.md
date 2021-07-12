@@ -19,7 +19,7 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 **Bitcoin for Ethiopia**
 
-BitcoinBirr is changing how we think about money in countries like Ethiopia. Unabased value should be a sovereign right. But since 1971, when the United States Dollar was removed off the Gold Standard, we have seen economies (and people) around the world suffer. BitcoinBirr is an open source initative to educate and share bitcoin with populations in maturing economies. All course materials will be shared via our Telegram Groups and GitHub Repository. We will also be creating content on Instagram and Twitter. 2021 priorities include translating copies of various books and relevant materials in local Ethiopian and Eritrean languages.
+Unabased value should be a sovereign right. But since 1971, when the United States Dollar was removed off the Gold Standard, we have seen economies (and people) around the world suffer. BitcoinBirr is an open source initative to educate and share bitcoin material with populations in maturing economies. All course materials will be shared via our Telegram Groups and GitHub Repository. We will also be creating content on Instagram and Twitter. 2021 priorities include translating copies of various books and relevant materials in local Ethiopian and Eritrean languages.
 
 > Thank you to all the generous supporters of this initative.
 
@@ -62,24 +62,25 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 > [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
-**What is OpenSource?**
+**What is Open Source?**
 
 To promote and protect open source software and communities...
+
 For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice. 
 
 As a global non-profit, the OSI champions software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement.
 
-Open source software is made by many people and distributed under an OSD-compliant license which grants all the rights to use, study, change, and share the software in modified and unmodified form. Software freedom is essential to enabling community development of open source software. [Learn more about Open Source](opensource.org)
+Open source software is made by many people and distributed under an OSD-compliant license which grants all the rights to use, study, change, and share the software in modified and unmodified form. Software freedom is essential to enabling community development of open source software. [Learn more about the Open Source Initiative](opensource.org)
 
 **Project Plan**
 
 | No.  | Deliverable | Date | Folder | Complete |
 | ---- | ----------- | ---- | ---- | ---- |
-| 001  | TBD  | ---- | ---- | ---- | ---- |
-| 002  | TBD  | ---- | ---- | ---- | ---- |
-| 003  | TBD  | ---- | ---- | ---- | ---- |
-| 004  | TBD  | ---- | ---- | ---- | ---- |
-| 005  | TBD  | ---- | ---- | ---- | ---- |
+| 001  | TBD  | ---- | July '21 | ---- | ---- |
+| 002  | TBD  | ---- | Oct '21 | ---- | ---- |
+| 003  | TBD  | ---- | Jan '22 | ---- | ---- |
+| 004  | TBD  | ---- | Apr '22 | ---- | ---- |
+| 005  | TBD  | ---- | July '22 | ---- | ---- |
 
 #Bitcoin
 #Ethiopia
