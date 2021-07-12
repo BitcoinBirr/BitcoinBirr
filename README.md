@@ -38,9 +38,9 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 **Media and Content**
 
-> [t.me/BitcoinBirr, Telegram Group](https://t.me/bitcoinbirr)
+> [BitcoinBirr, Telegram](https://t.me/bitcoinbirr)
 
-> [One Love Bitcoin, YouTube](https://www.youtube.com/watch?v=Y2LieS43mVA)
+> [One Love Bitcoin/ Swan Bitcoin, YouTube](https://www.youtube.com/watch?v=Y2LieS43mVA)
 
 > [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
 
