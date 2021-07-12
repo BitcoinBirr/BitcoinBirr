@@ -6,9 +6,9 @@ I’m [BitcoinBirr](bitcoinbirr.org)
 
 ![Asset 5](https://user-images.githubusercontent.com/87287532/125222262-550c4400-e28f-11eb-85f3-41eb983e265a.png)
 
-> Interested in bitcoin as it relates to ascending countries.
+> Tinkering with bitcoin as it relates to ascending countries.
 
-> Currently learning bitcoin and mining/ renewable energy production.
+> Currently learning about money, bitcoin and mining/ renewable energy production.
 
 > Looking to collaborate on open source initiatives, particularly digital wallet education.
 
@@ -18,9 +18,7 @@ I’m [BitcoinBirr](bitcoinbirr.org)
 
 **Bitcoin for Ethiopia**
 
-BitcoinBirr is changing how we think about money in countries like Ethiopia. Unabased value should be a soverign right. But since 1971, when the United States Dollar was removed off the Gold Standard, we have seen economies (and people) around the world suffer. 
-a
-BitcoinBirr is an open source initative to educate and share bitcoin with populations in maturing economies. All course materials will be shared via our Telegram Groups and GitHub presence. We will also be creating content on Instagram and Twitter. We will also be making translated copies of various books and relevant materials in local languages.
+BitcoinBirr is changing how we think about money in countries like Ethiopia. Unabased value should be a soverign right. But since 1971, when the United States Dollar was removed off the Gold Standard, we have seen economies (and people) around the world suffer. BitcoinBirr is an open source initative to educate and share bitcoin with populations in maturing economies. All course materials will be shared via our Telegram Groups and GitHub presence. We will also be creating content on Instagram and Twitter. 2021 priorities include making translated copies of various books and relevant materials in local Ethiopian and Eritrean languages.
 
 > Thank you to all the amazing supporters of this initative.
 
@@ -69,6 +67,8 @@ Sign Change.org Petition [Here](https://www.change.org/p/ministry-of-finance-and
 #Eritrea
 #Education
 #OpenSource
+
+Hosting provided by kalkassa.com
 
 <!---
 BitcoinBirr/BitcoinBirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
