@@ -60,15 +60,16 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 ![Asset 9](https://user-images.githubusercontent.com/87287532/125218344-600fa600-e288-11eb-956a-9d15511b5558.png)
 
-Sign Change.org Petition [Here](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
+**Sign Change.org Petition** 
+[change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
+
+Hosting provided by [KalKassa.com](kalkassa.com)
 
 #Bitcoin
 #Ethiopia
 #Eritrea
 #Education
 #OpenSource
-
-Hosting provided by [KalKassa.com](kalkassa.com)
 
 <!---
 BitcoinBirr/BitcoinBirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
