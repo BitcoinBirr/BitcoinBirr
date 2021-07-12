@@ -4,7 +4,7 @@
 
 I’m [BitcoinBirr](bitcoinbirr.org)
 
-![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125267444-6fb0de00-e2cc-11eb-8959-a4f8bb160a2b.jpg)
+![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125325691-db17a180-e306-11eb-9286-9b704e96397b.jpg)
 
 > Tinkering with bitcoin for Ethiopia.
 
