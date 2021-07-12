@@ -76,11 +76,11 @@ Open source software is made by many people and distributed under an OSD-complia
 
 | No.  | Deliverable | Date | Folder | Complete |
 | ---- | ----------- | ---- | ---- | ---- |
-| 001  | TBD  | ---- | July '21 | ---- | ---- |
-| 002  | TBD  | ---- | Oct '21 | ---- | ---- |
-| 003  | TBD  | ---- | Jan '22 | ---- | ---- |
-| 004  | TBD  | ---- | Apr '22 | ---- | ---- |
-| 005  | TBD  | ---- | July '22 | ---- | ---- |
+| 001  | Project Plan  | July '21 | --- | :white_check_mark: |
+| 002  | TBD  | Oct '21 | ---- | ---- |
+| 003  | TBD  | Jan '22 | ---- | ---- |
+| 004  | TBD  | Apr '22 | ---- | ---- |
+| 005  | TBD  | July '22 | ---- | ---- |
 
 #Bitcoin
 #Ethiopia
