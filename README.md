@@ -71,21 +71,13 @@ BitcoinBirr discussion and coordination happens on the Telegram chat platform. W
 
 ![Asset 9](https://user-images.githubusercontent.com/87287532/125218344-600fa600-e288-11eb-956a-9d15511b5558.png)
 
-**Branding**
-
-Our branding process was simple-- two wallets coming together, reflected in the blocks. Our brand guideline PDF and all high resolution JPEGs of the assets will be uploaded here in due time.
-
-![pexels-kureng-workx-4314674-small](https://user-images.githubusercontent.com/87287532/125218601-f5ab3580-e288-11eb-928c-dbfd63c546d7.jpg)
+**Branding for BitcoinBirr**
 
 **Bitcoin education in East Africa**
 
-![US-Dollar-outlook-2](https://user-images.githubusercontent.com/87287532/125218502-b7ae1180-e288-11eb-87ee-a6448fce21a1.jpeg)
-
-Education materials to be released as PDFs within [GitHub](https://github.com/bitcoinbirr)
-
 **Bitcoin Legal Tender for Ethiopia**
 
-Sign Change.org [Petition Here](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
+Sign Change.org Petition [Here](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
 #Bitcoin
 #Ethiopia
