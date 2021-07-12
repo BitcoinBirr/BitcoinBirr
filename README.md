@@ -85,8 +85,6 @@ Education materials to be released as PDFs within [GitHub](https://github.com/bi
 
 **Bitcoin Legal Tender for Ethiopia**
 
-![Petition - Image](https://user-images.githubusercontent.com/87287532/125222405-8ab12d00-e28f-11eb-9495-417101f894a6.png)
-
 Sign Change.org [Petition Here](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
 #Bitcoin
