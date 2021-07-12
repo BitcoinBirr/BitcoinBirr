@@ -22,6 +22,8 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 > Thank you to all the generous supporters of this initative.
 
+> [White Paper, Bitcoin.org](https://bitcoin.org/bitcoin.pdf)
+
 ![BitcoinBirr org - Bitcoin for Ethiopia 001](https://user-images.githubusercontent.com/87287532/125266513-830f7980-e2cb-11eb-9d29-2ec1fc55bb94.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 002](https://user-images.githubusercontent.com/87287532/125265145-2b244300-e2ca-11eb-98bb-b45cfff17438.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 004](https://user-images.githubusercontent.com/87287532/125270680-84db3c00-e2cf-11eb-8763-8817245962f9.jpg)
@@ -84,7 +86,6 @@ Open source software is made by many people and distributed under an OSD-complia
 #OpenSource
 
 > Hosting provided by Kal Kassa :zap:
-> [White Paper, Bitcoin.org](https://bitcoin.org/bitcoin.pdf)
 
 ![Footer - GitHub](https://user-images.githubusercontent.com/87287532/125327520-d2c06600-e308-11eb-913f-fb8df03b2abb.jpg)
 
