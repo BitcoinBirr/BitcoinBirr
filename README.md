@@ -32,8 +32,6 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 ![BitcoinBirr org - Bitcoin for Ethiopia 008](https://user-images.githubusercontent.com/87287532/125257420-011b5280-e2c3-11eb-8c48-94312e26fd35.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 010](https://user-images.githubusercontent.com/87287532/125257423-01b3e900-e2c3-11eb-83df-5687d41027cd.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 011](https://user-images.githubusercontent.com/87287532/125257425-01b3e900-e2c3-11eb-8d6a-89fec8b64849.jpg)
-![BitcoinBirr org - Bitcoin for Ethiopia 012](https://user-images.githubusercontent.com/87287532/125257426-024c7f80-e2c3-11eb-9c13-8a33b8ac97e9.jpg)
-
 
 **Media and Content**
 
