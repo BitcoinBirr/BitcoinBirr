@@ -70,6 +70,8 @@ Hosting provided by [KalKassa.com](kalkassa.com)
 #Education
 #OpenSource
 
+![Footer - GitHub](https://user-images.githubusercontent.com/87287532/125327520-d2c06600-e308-11eb-913f-fb8df03b2abb.jpg)
+
 <!---
 BitcoinBirr/BitcoinBirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
