@@ -61,12 +61,21 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 > [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
+**What is OpenSource?**
+
+To promote and protect open source software and communities...
+For over 20 years the Open Source Initiative (OSI) has worked to raise awareness and adoption of open source software, and build bridges between open source communities of practice. 
+
+As a global non-profit, the OSI champions software freedom in society through education, collaboration, and infrastructure, stewarding the Open Source Definition (OSD), and preventing abuse of the ideals and ethos inherent to the open source movement.
+
+Open source software is made by many people and distributed under an OSD-compliant license which grants all the rights to use, study, change, and share the software in modified and unmodified form. Software freedom is essential to enabling community development of open source software. [Learn more about Open Source](opensource.org)
+
 #Bitcoin
 #Ethiopia
 #Education
 #OpenSource
 
-Hosting provided by Kal Kassa.
+> Hosting provided by Kal Kassa.
 
 ![Footer - GitHub](https://user-images.githubusercontent.com/87287532/125327520-d2c06600-e308-11eb-913f-fb8df03b2abb.jpg)
 
