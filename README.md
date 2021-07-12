@@ -15,7 +15,6 @@ I’m [BitcoinBirr](bitcoinbirr.org)
 > How to reach me kal@bitcoinbirr.org.
 
 # Organization
-An Open Source Initiative needs a good Repository - #Bitcoin for #Ethiopia.
 
 **Bitcoin for Ethiopia**
 
