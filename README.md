@@ -1,10 +1,17 @@
 I’m @BitcoinBirr
+
+![Asset 5](https://user-images.githubusercontent.com/87287532/125222262-550c4400-e28f-11eb-85f3-41eb983e265a.png)
+
 Interested in bitcoin as it relates to ascending countries.
+
 Currently learning bitcoin and energy production.
+
 Looking to collaborate on open source initiatives, particularly digital wallet education.
+
 How to reach me kal@didibold.com.
 
 Telegram
+
 BitcoinBirr discussion and coordination happens on the Telegram chat platform.
 
 Download the Telegram app and join the BITCOINBIRR group https://t.me/bitcoinbirr.
