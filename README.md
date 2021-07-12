@@ -60,21 +60,7 @@ https://twitter.com/BitcoinBirr
 
 https://twitter.com/BitcoinNakfa
 
-**Telegram**
-
-BitcoinBirr discussion and coordination happens on the Telegram chat platform. We also have giveaways of 200 and 500sats to experience a transaction and learn the functions of a lightning wallet on layer two.
-
-> Download the Telegram app and join the [BitcoinBirr Telegram Group](https://t.me/bitcoinbirr).
-
-> The companion Telegram channel BITCOINETHIO Library contains high quality materials collected from chat group traffic.
-
 ![Asset 9](https://user-images.githubusercontent.com/87287532/125218344-600fa600-e288-11eb-956a-9d15511b5558.png)
-
-**Branding for BitcoinBirr**
-
-**Bitcoin education in East Africa**
-
-**Bitcoin Legal Tender for Ethiopia**
 
 Sign Change.org Petition [Here](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
