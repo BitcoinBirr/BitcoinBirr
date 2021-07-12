@@ -1,10 +1,10 @@
 # BitcoinBirr.org
 
+![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125337927-351f6380-e315-11eb-9674-5fbecc1dfbf8.jpg)
+
 **Hello World**
 
 I’m [BitcoinBirr](bitcoinbirr.org) :ethiopia:
-
-![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125325691-db17a180-e306-11eb-9286-9b704e96397b.jpg)
 
 > Tinkering with bitcoin for Ethiopia.
 
