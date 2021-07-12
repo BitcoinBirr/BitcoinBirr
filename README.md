@@ -72,13 +72,13 @@ Open source software is made by many people and distributed under an OSD-complia
 
 **Project Plan**
 
-| No.  | Deliverable | Date |
-| ---- | ----------- | ---- |
-| 001  | TBD  | ---- |
-| 002  | TBD  | ---- |
-| 003  | TBD  | ---- |
-| 004  | TBD  | ---- |
-| 005  | TBD  | ---- |
+| No.  | Deliverable | Date | Folder | Complete |
+| ---- | ----------- | ---- | ---- | ---- |
+| 001  | TBD  | ---- | ---- | ---- | ---- |
+| 002  | TBD  | ---- | ---- | ---- | ---- |
+| 003  | TBD  | ---- | ---- | ---- | ---- |
+| 004  | TBD  | ---- | ---- | ---- | ---- |
+| 005  | TBD  | ---- | ---- | ---- | ---- |
 
 #Bitcoin
 #Ethiopia
