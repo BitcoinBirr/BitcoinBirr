@@ -57,7 +57,7 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 > [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine (K.Kassa)](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
 
-> [The Lightning Network Is Going to Change How You Think About Bitcoin (J.Wiser)](https://www.coindesk.com/lightning-network-how-you-think-about-bitcoin)
+> [The Lightning Network Is Going to Change How You Think About Bitcoin, Coindesk (J.Wiser)](https://www.coindesk.com/lightning-network-how-you-think-about-bitcoin)
 
 **Sign Change.org Petition** 
 
