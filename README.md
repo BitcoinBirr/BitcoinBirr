@@ -38,23 +38,23 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 **Media and Content**
 
-[t.me/BitcoinBirr, Telegram Group](https://t.me/bitcoinbirr)
+> [t.me/BitcoinBirr, Telegram Group](https://t.me/bitcoinbirr)
 
-[One Love Bitcoin, YouTube](https://www.youtube.com/watch?v=Y2LieS43mVA)
+> [One Love Bitcoin, YouTube](https://www.youtube.com/watch?v=Y2LieS43mVA)
 
-[The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
+> [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
 
-https://bitcoinmagazine.com/culture/check-your-financial-privilege
+> [Check Your Financial Privilege, Bitcoin Magaizne](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
 
-https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff
+> [Shitcoin Millionaire, Kal Kassa](https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff)
 
-https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is
+> [Number of User Go Up, Lightning Labs](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
 
-https://twitter.com/KalKassa
+> [Kal Kassa, Twitter](https://twitter.com/KalKassa)
 
-https://twitter.com/BitcoinBirr
+> [Bitcoin Birr, Twitter](https://twitter.com/BitcoinBirr)
 
-https://twitter.com/BitcoinNakfa
+> [Bitcoin Nakfa, Twitter](https://twitter.com/BitcoinNakfa)
 
 ![Asset 9](https://user-images.githubusercontent.com/87287532/125218344-600fa600-e288-11eb-956a-9d15511b5558.png)
 
