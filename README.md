@@ -37,15 +37,15 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 **Media and Content**
 
-> [BitcoinBirr, Telegram](https://t.me/bitcoinbirr)
-
-> [BitcoinNakfa, Telegram](https://t.me.bitcoinnakfa)
-
 > [@KalKassa, Twitter](https://twitter.com/KalKassa)
 
 > [@BitcoinBirr, Twitter](https://twitter.com/BitcoinBirr)
 
 > [@BitcoinNakfa, Twitter](https://twitter.com/BitcoinNakfa)
+ 
+> [BitcoinBirr, Telegram](https://t.me/bitcoinbirr)
+
+> [BitcoinNakfa, Telegram](https://t.me.bitcoinnakfa)
 
 > [Shitcoin Millionaire, Medium (K.Kassa)](https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff)
 
