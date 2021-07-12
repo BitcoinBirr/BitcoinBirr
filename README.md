@@ -40,6 +40,8 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 > [BitcoinBirr, Telegram](https://t.me/bitcoinbirr)
 
+> [BitcoinNakfa, Telegram](https://t.me.bitcoinnakfa)
+
 > [One Love Bitcoin/ Swan Bitcoin, YouTube](https://www.youtube.com/watch?v=Y2LieS43mVA)
 
 > [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
@@ -50,11 +52,11 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 > [Number of User Go Up, Lightning Labs](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
 
-> [Kal Kassa, Twitter](https://twitter.com/KalKassa)
+> [@KalKassa, Twitter](https://twitter.com/KalKassa)
 
-> [Bitcoin Birr, Twitter](https://twitter.com/BitcoinBirr)
+> [@BitcoinBirr, Twitter](https://twitter.com/BitcoinBirr)
 
-> [Bitcoin Nakfa, Twitter](https://twitter.com/BitcoinNakfa)
+> [@BitcoinNakfa, Twitter](https://twitter.com/BitcoinNakfa)
 
 ![Asset 9](https://user-images.githubusercontent.com/87287532/125218344-600fa600-e288-11eb-956a-9d15511b5558.png)
 
