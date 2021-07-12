@@ -38,7 +38,7 @@ https://twitter.com/BitcoinNakfa
 
 BitcoinBirr discussion and coordination happens on the Telegram chat platform. We also have giveaways of 200 and 500sats to experience a transaction and learn the functions of a lightning wallet on layer two.
 
-> Download the Telegram app and join the BITCOINBIRR group https://t.me/bitcoinbirr.
+> Download the Telegram app and join the [BitcoinBirr Telegram Group](https://t.me/bitcoinbirr).
 
 > The companion Telegram channel BITCOINETHIO Library contains high quality materials collected from chat group traffic.
 
@@ -54,15 +54,13 @@ Our branding process was simple-- two wallets coming together, reflected in the 
 
 ![US-Dollar-outlook-2](https://user-images.githubusercontent.com/87287532/125218502-b7ae1180-e288-11eb-87ee-a6448fce21a1.jpeg)
 
-Education materials to be released as PDFs in this GitHub.com/bitcoinbirr/README.md 
+Education materials to be released as PDFs within [GitHub](github.com/bitcoinbirr)
 
 **Bitcoin Legal Tender for Ethiopia**
 
 ![Petition - Image](https://user-images.githubusercontent.com/87287532/125222405-8ab12d00-e28f-11eb-9495-417101f894a6.png)
 
-
-https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs
-
+[Sign Change.org Petition Here](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
 #Bitcoin
 #Ethiopia
