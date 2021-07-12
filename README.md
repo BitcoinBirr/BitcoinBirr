@@ -40,6 +40,7 @@ https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-le
 #Ethiopia
 #Eritrea
 #Education
+#OpenSource
 
 <!---
 BitcoinBirr/BitcoinBirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
