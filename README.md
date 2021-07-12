@@ -7,7 +7,7 @@
 Telegram
 BitcoinBirr discussion and coordination happens on the Telegram chat platform.
 
-Download the Telegram app and join the BITCOINBIRR group t.me/bitcoinbirr.
+Download the Telegram app and join the BITCOINBIRR group https://t.me/bitcoinbirr.
 
 The companion Telegram channel BITCOINETHIO Library contains high quality materials collected from chat group traffic.
 
