@@ -18,9 +18,9 @@ I’m [BitcoinBirr](bitcoinbirr.org)
 
 **Bitcoin for Ethiopia**
 
-BitcoinBirr is changing how we think about money in countries like Ethiopia. Unabased value should be a soverign right. But since 1971, when the United States Dollar was removed off the Gold Standard, we have seen economies (and people) around the world suffer. BitcoinBirr is an open source initative to educate and share bitcoin with populations in maturing economies. All course materials will be shared via our Telegram Groups and GitHub presence. We will also be creating content on Instagram and Twitter. 2021 priorities include making translated copies of various books and relevant materials in local Ethiopian and Eritrean languages.
+BitcoinBirr is changing how we think about money in countries like Ethiopia. Unabased value should be a sovereign right. But since 1971, when the United States Dollar was removed off the Gold Standard, we have seen economies (and people) around the world suffer. BitcoinBirr is an open source initative to educate and share bitcoin with populations in maturing economies. All course materials will be shared via our Telegram Groups and GitHub Repository. We will also be creating content on Instagram and Twitter. 2021 priorities include translating copies of various books and relevant materials in local Ethiopian and Eritrean languages.
 
-> Thank you to all the amazing supporters of this initative.
+> Thank you to all the generous supporters of this initative.
 
 ![BitcoinBirr org - Bitcoin for Ethiopia 001](https://user-images.githubusercontent.com/87287532/125266513-830f7980-e2cb-11eb-9d29-2ec1fc55bb94.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 002](https://user-images.githubusercontent.com/87287532/125265145-2b244300-e2ca-11eb-98bb-b45cfff17438.jpg)
@@ -61,13 +61,12 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 ![Asset 9](https://user-images.githubusercontent.com/87287532/125218344-600fa600-e288-11eb-956a-9d15511b5558.png)
 
 **Sign Change.org Petition** 
-[change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
+[change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
 Hosting provided by [KalKassa.com](kalkassa.com)
 
 #Bitcoin
 #Ethiopia
-#Eritrea
 #Education
 #OpenSource
 
