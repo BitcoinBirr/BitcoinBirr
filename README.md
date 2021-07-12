@@ -28,6 +28,12 @@ https://bitcoinmagazine.com/culture/check-your-financial-privilege
 
 https://bitcoinmagazine.com/culture/bitcoin-is-humanitarian-and-environmental
 
+https://twitter.com/KalKassa
+
+https://twitter.com/BitcoinBirr
+
+https://twitter.com/BitcoinNakfa
+
 **Telegram**
 
 BitcoinBirr discussion and coordination happens on the Telegram chat platform. We also have giveaways of 200 and 500sats to experience a transaction and learn the functions of a lightning wallet on layer two.
