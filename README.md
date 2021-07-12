@@ -4,9 +4,9 @@
 
 I’m [BitcoinBirr](bitcoinbirr.org)
 
-![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125266476-78ed7b00-e2cb-11eb-9941-8a37cb69ce15.jpg)
+![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125267444-6fb0de00-e2cc-11eb-8959-a4f8bb160a2b.jpg)
 
-> Tinkering with bitcoin as it relates to ascending countries.
+> Tinkering with bitcoin for Ethiopia.
 
 > Currently learning about money, bitcoin and mining/ renewable energy production.
 
