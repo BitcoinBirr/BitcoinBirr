@@ -4,7 +4,7 @@
 
 I’m [BitcoinBirr](bitcoinbirr.org)
 
-![Asset 5](https://user-images.githubusercontent.com/87287532/125222262-550c4400-e28f-11eb-85f3-41eb983e265a.png)
+![Cover - GitHub](https://user-images.githubusercontent.com/87287532/125266476-78ed7b00-e2cb-11eb-9941-8a37cb69ce15.jpg)
 
 > Tinkering with bitcoin as it relates to ascending countries.
 
@@ -22,7 +22,7 @@ BitcoinBirr is changing how we think about money in countries like Ethiopia. Una
 
 > Thank you to all the amazing supporters of this initative.
 
-![BitcoinBirr org - Bitcoin for Ethiopia 001](https://user-images.githubusercontent.com/87287532/125257390-fbbe0800-e2c2-11eb-84e9-86155b4b08a8.jpg)
+![BitcoinBirr org - Bitcoin for Ethiopia 001](https://user-images.githubusercontent.com/87287532/125266513-830f7980-e2cb-11eb-9d29-2ec1fc55bb94.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 002](https://user-images.githubusercontent.com/87287532/125265145-2b244300-e2ca-11eb-98bb-b45cfff17438.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 003](https://user-images.githubusercontent.com/87287532/125257405-ff518f00-e2c2-11eb-8b19-fb17c117e2ce.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 004](https://user-images.githubusercontent.com/87287532/125257409-ffea2580-e2c2-11eb-9e27-83a426c5d5aa.jpg)
