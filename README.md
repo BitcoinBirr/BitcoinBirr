@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BitcoinBirr
-- 👀 I’m interested in bitcoin as it relates to ascending countries.
-- 🌱 I’m currently learning bitcoin and energy production.
-- 💞️ I’m looking to collaborate on open source initatives, particularly digital wallet education.
-- 📫 How to reach me kal@bitcoinbirr.org.
+I’m @BitcoinBirr
+Interested in bitcoin as it relates to ascending countries.
+Currently learning bitcoin and energy production.
+Looking to collaborate on open source initiatives, particularly digital wallet education.
+How to reach me kal@didibold.com.
 
 Telegram
 BitcoinBirr discussion and coordination happens on the Telegram chat platform.
