@@ -44,19 +44,19 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 > [BitcoinNakfa, Telegram](https://t.me.bitcoinnakfa)
 
-> [Shitcoin Millionaire, Medium (K.Kassa)](https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff)
+> [Shitcoin Millionaire, Medium (K. Kassa)](https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff)
 
-> [Number of User Go Up, Lightning Labs (R.Gentry)](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
+> [Number of User Go Up, Lightning Labs (R. Gentry)](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
 
-> [One Love Bitcoin/ Swan Bitcoin, YouTube (B.Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
+> [One Love Bitcoin/ Swan Bitcoin, YouTube (B. Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
 
-> [Check Your Financial Privilege, Bitcoin Magazine (A.Gladstein)](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
+> [Check Your Financial Privilege, Bitcoin Magazine (A. Gladstein)](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
 
-> [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine (K.Kassa)](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
+> [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine (K. Kassa)](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
 
-> [The Lightning Network Is Going to Change How You Think About Bitcoin, Coindesk (J.Wiser)](https://www.coindesk.com/lightning-network-how-you-think-about-bitcoin)
+> [The Lightning Network Is Going to Change How You Think About Bitcoin, Coindesk (J. Wiser)](https://www.coindesk.com/lightning-network-how-you-think-about-bitcoin)
 
-> [Renewed Hope: How Bitcoin and Green Energy Can Save Ethioia's Economy, Forbes (M.L.Rivers](https://www.forbes.com/sites/martinrivers/2021/07/13/renewed-hope-how-bitcoin-and-green-energy-can-save-ethiopias-economy/)
+> [Renewed Hope: How Bitcoin and Green Energy Can Save Ethioia's Economy, Forbes (M.L. Rivers)](https://www.forbes.com/sites/martinrivers/2021/07/13/renewed-hope-how-bitcoin-and-green-energy-can-save-ethiopias-economy/)
 
 **Sign Change.org Petition** 
 
