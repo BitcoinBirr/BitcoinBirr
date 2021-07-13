@@ -75,9 +75,15 @@ Open source software is made by many people and distributed under an OSD-complia
 
 **Project Plan**
 
-| No.  | Deliverable | Date | Folder | Complete |
+| No.  | Deliverable | Date | /Location | Task |
 | ---- | ----------- | ---- | ---- | ---- |
-| *001* | Project Plan  | July '21 | --- | :white_check_mark: |
+| *001* | Project Plan | July '21 | --- | :white_check_mark: |
+| *001* | Teaser | July '21 | --- | :white_check_mark: |
+| *001* | GitHub | July '21 | --- | :white_check_mark: |
+| *001* | Media Kit | July '21 | --- | :white_check_mark: |
+| *001* | Media Appearance | July '21 | --- | :white_check_mark: |
+| *001* | Secure Funding | July '21 | --- | :white_check_mark: |
+| *001* | Procure Equipment | July '21 | --- | :white_check_mark: |
 | *002* | TBD  | Oct '21 | --- | :o: |
 | *003* | TBD  | Jan '22 | --- | :o: |
 | *004* | TBD  | Apr '22 | --- | :o: |
