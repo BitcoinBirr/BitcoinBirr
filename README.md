@@ -82,13 +82,13 @@ Open source software is made by many people and distributed under an OSD-complia
 | *103* | GitHub Media Kit | July '21 | --- | :white_check_mark: |
 | *104* | Media Appearances | July '21 | --- | :white_check_mark: |
 | *105* | Twitter and Instagram | July '21 | --- | :white_check_mark: |
-| *106* | Secure Funding | July '21 | --- | :o: |
+| *106* | Secure Funding | July '21 | --- | :white_check_mark: |
 | *107* | Procure Equipment | July '21 | --- | :o: |
-| *201* | 1000 New Lightning Wallets | Oct '21 | --- | :o: |
-| *202* | Social Media Audience | Oct '21 | --- | :o: |
-| *203* | Ethiopian Business Community | Oct '21 | --- | :o: |
-| *204* | Translated Materials Release | Oct '21 | --- | :o: |
-| *301* | 3750 New Lightning Wallets | Jan '22 | --- | :o: |
+| *201* | 1000 New Lightning Wallets | Jan '22 | --- | :o: |
+| *202* | Social Media Audience | Jan '22 | --- | :o: |
+| *203* | Ethiopian Business Community | Jan '22 | --- | :o: |
+| *204* | Translated Materials Release | Jan '22 | --- | :o: |
+| *301* | 3750 New Lightning Wallets | Apr '22 | --- | :o: |
 | *302* | Social Media Audience | Apr '22 | --- | :o: |
 | *303* | Media Apperances | Apr '22 | --- | :o: |
 | *304* | Strategic Objectives Review | Apr '22 | --- | :o: |
