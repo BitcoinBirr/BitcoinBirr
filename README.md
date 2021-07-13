@@ -27,13 +27,10 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 ![BitcoinBirr org - Bitcoin for Ethiopia 001](https://user-images.githubusercontent.com/87287532/125266513-830f7980-e2cb-11eb-9d29-2ec1fc55bb94.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 002](https://user-images.githubusercontent.com/87287532/125265145-2b244300-e2ca-11eb-98bb-b45cfff17438.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 004](https://user-images.githubusercontent.com/87287532/125270680-84db3c00-e2cf-11eb-8763-8817245962f9.jpg)
-![BitcoinBirr org - Bitcoin for Ethiopia 004](https://user-images.githubusercontent.com/87287532/125257409-ffea2580-e2c2-11eb-9e27-83a426c5d5aa.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 005](https://user-images.githubusercontent.com/87287532/125257411-0082bc00-e2c3-11eb-95ed-193343c29fcc.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 006](https://user-images.githubusercontent.com/87287532/125257415-0082bc00-e2c3-11eb-964a-1db5716f55d6.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 007](https://user-images.githubusercontent.com/87287532/125257418-011b5280-e2c3-11eb-9671-6257ff7b8bb6.jpg)
 ![BitcoinBirr org - Bitcoin for Ethiopia 008](https://user-images.githubusercontent.com/87287532/125257420-011b5280-e2c3-11eb-8c48-94312e26fd35.jpg)
-![BitcoinBirr org - Bitcoin for Ethiopia 010](https://user-images.githubusercontent.com/87287532/125257423-01b3e900-e2c3-11eb-83df-5687d41027cd.jpg)
-![BitcoinBirr org - Bitcoin for Ethiopia 011](https://user-images.githubusercontent.com/87287532/125257425-01b3e900-e2c3-11eb-8d6a-89fec8b64849.jpg)
 
 **Media and Content**
 
