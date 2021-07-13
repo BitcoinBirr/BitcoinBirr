@@ -77,17 +77,25 @@ Open source software is made by many people and distributed under an OSD-complia
 
 | No.  | Deliverable | Date | /Location | Task |
 | ---- | ----------- | ---- | ---- | ---- |
-| *001* | Project Plan | July '21 | --- | :white_check_mark: |
-| *001* | Teaser | July '21 | --- | :white_check_mark: |
-| *001* | GitHub | July '21 | --- | :white_check_mark: |
-| *001* | Media Kit | July '21 | --- | :white_check_mark: |
-| *001* | Media Appearance | July '21 | --- | :white_check_mark: |
-| *001* | Secure Funding | July '21 | --- | :white_check_mark: |
-| *001* | Procure Equipment | July '21 | --- | :white_check_mark: |
-| *002* | TBD  | Oct '21 | --- | :o: |
-| *003* | TBD  | Jan '22 | --- | :o: |
-| *004* | TBD  | Apr '22 | --- | :o: |
-| *005* | TBD  | July '22 | --- | :o: |
+| *101* | Project Plan | July '21 | --- | :white_check_mark: |
+| *102* | Teaser | July '21 | --- | :white_check_mark: |
+| *103* | GitHub Media Kit | July '21 | --- | :white_check_mark: |
+| *104* | Media Appearances | July '21 | --- | :white_check_mark: |
+| *105* | Twitter and Instagram | July '21 | --- | :white_check_mark: |
+| *106* | Secure Funding | July '21 | --- | --- |
+| *107* | Procure Equipment | July '21 | --- | --- |
+| *201* | 1000 New Lightning Wallets | Oct '21 | --- | :o: |
+| *202* | Social Media Audience | Oct '21 | --- | :o: |
+| *203* | Ethiopian Business Community | Oct '21 | --- | :o: |
+| *204* | Translated Materials Release | Oct '21 | --- | :o: |
+| *301* | 3750 New Lightning Wallets | Jan '22 | --- | :o: |
+| *302* | Social Media Audience | Apr '22 | --- | :o: |
+| *303* | Media Apperances | Apr '22 | --- | :o: |
+| *304* | Strategic Objectives Review | Apr '22 | --- | :o: |
+| *401* | 10000 New Lightning Wallets | July '22 | --- | :o: |
+| *402* | Social Media Audience | July '22 | --- | :o: |
+| *403* | Ethiopian Government Stakeholders | July '22 | --- | :o: |
+| *404* | Grow learning beyond to Eritrea, Sudan and Somalia | July '22 | --- | :o: |
 
 #Bitcoin
 #Ethiopia
