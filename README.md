@@ -82,8 +82,8 @@ Open source software is made by many people and distributed under an OSD-complia
 | *103* | GitHub Media Kit | July '21 | --- | :white_check_mark: |
 | *104* | Media Appearances | July '21 | --- | :white_check_mark: |
 | *105* | Twitter and Instagram | July '21 | --- | :white_check_mark: |
-| *106* | Secure Funding | July '21 | --- | --- |
-| *107* | Procure Equipment | July '21 | --- | --- |
+| *106* | Secure Funding | July '21 | --- | :o: |
+| *107* | Procure Equipment | July '21 | --- | :o: |
 | *201* | 1000 New Lightning Wallets | Oct '21 | --- | :o: |
 | *202* | Social Media Audience | Oct '21 | --- | :o: |
 | *203* | Ethiopian Business Community | Oct '21 | --- | :o: |
