@@ -78,7 +78,7 @@ Open source software is made by many people and distributed under an OSD-complia
 | No.  | Deliverable | Date | /Location | Task |
 | ---- | ----------- | ---- | ---- | ---- |
 | *101* | Project Plan | July '21 | --- | :white_check_mark: |
-| *102* | Teaser | July '21 | --- | :white_check_mark: |
+| *102* | Teaser Campaign | July '21 | --- | :white_check_mark: |
 | *103* | GitHub Media Kit | July '21 | --- | :white_check_mark: |
 | *104* | Media Appearances | July '21 | --- | :white_check_mark: |
 | *105* | Twitter and Instagram | July '21 | --- | :white_check_mark: |
