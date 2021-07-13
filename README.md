@@ -99,7 +99,7 @@ Open source software is made by many people and distributed under an OSD-complia
 #Education
 #OpenSource
 
-> Hosting provided by Kal Kassa :zap:
+> Hosting provided by [Kal Kassa](https://www.linkedin.com/in/kalkassa/) :zap:
 
 ![Footer - GitHub](https://user-images.githubusercontent.com/87287532/125327520-d2c06600-e308-11eb-913f-fb8df03b2abb.jpg)
 
