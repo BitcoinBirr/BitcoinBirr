@@ -56,6 +56,8 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 > [The Lightning Network Is Going to Change How You Think About Bitcoin, Coindesk (J.Wiser)](https://www.coindesk.com/lightning-network-how-you-think-about-bitcoin)
 
+> [Renewed Hope: How Bitcoin and Green Energy Can Save Ethioia's Economy, Forbes (M.L.Rivers](https://www.forbes.com/sites/martinrivers/2021/07/13/renewed-hope-how-bitcoin-and-green-energy-can-save-ethiopias-economy/)
+
 **Sign Change.org Petition** 
 
 > [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
