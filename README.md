@@ -50,7 +50,7 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 > [Number of User Go Up, Lightning Labs (R. Gentry)](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
 
-> [One Love Bitcoin/ Swan Bitcoin, YouTube (B. Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
+> [One Love Bitcoin, Swan Bitcoin - YouTube (B. Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
 
 > [Check Your Financial Privilege, Bitcoin Magazine (A. Gladstein)](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
 
