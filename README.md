@@ -20,7 +20,7 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 Birr means Money in Amharic. 
 
-It actually means Silver but over the years the two have come to mean the same thing. There was a time, before 1971, when 1 Ethiopian Birr had the value of 1 silver bullion coin. Over time, Birr has come to mean many things. But in the future, we strongly believe that the Ethiopian people will gain great strength and value from understanding Bitcoin and making it work for them. Learning comes first. Test transactions on lightning.engineering/ layer 2 available at t.me/bitcoinbirr.
+It actually means Silver but over the years the two have come to mean the same thing. There was a time, before 1971, when 1 Ethiopian Birr had the value of 1 silver bullion coin. Over time, Birr has come to mean many things. But in the future, we strongly believe that the Ethiopian people will gain great strength and value from understanding Bitcoin and making it work for them. Learning comes first. Test transactions of 200 Satoshi (or "Sats" - unit of measurement) using using lightning wallets are available at [Telegram](https://t.me/bitcoinbirr).
 
 BitcoinBirr is an open source initative to educate and share bitcoin material with populations in maturing economies. 2021 priorities include translating copies of various books and relevant materials in local Ethiopian and Eritrean languages, beginning with [The Little Bitcoin Book](https://littlebitcoinbook.com/)
 
