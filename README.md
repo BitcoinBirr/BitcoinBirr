@@ -45,7 +45,6 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 ![BitcoinBirr org - An Open Source Initative19](https://user-images.githubusercontent.com/87287532/126019753-4cb61fc6-3d09-470b-b235-15bca1697afd.jpg)
 ![BitcoinBirr org - An Open Source Initative20](https://user-images.githubusercontent.com/87287532/126019757-5e5a175e-f368-40bc-a35a-814f2299abb2.jpg)
 ![BitcoinBirr org - An Open Source Initative21](https://user-images.githubusercontent.com/87287532/126019759-7dd37b44-c9c8-4046-9f50-aaed8a1c634e.jpg)
-![BitcoinBirr org - An Open Source Initative22](https://user-images.githubusercontent.com/87287532/126019761-eb10b85b-1e2f-4d17-8584-4cded1f75f28.jpg)
 
 **Media and Content**
 
