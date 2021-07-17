@@ -61,6 +61,8 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 > [BitcoinNakfa, Telegram](https://t.me.bitcoinnakfa)
 
+> [BitcoinBirr, LinkedIn](https://www.linkedin.com/company/bitcoinbirr-org)
+
 > [Shitcoin Millionaire, Medium (K. Kassa)](https://kalkassa.medium.com/shitcoin-millionaire-cardano-in-ethiopia-d81273d02eff)
 
 > [Number of User Go Up, Lightning Labs (R. Gentry)](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
