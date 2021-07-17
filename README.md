@@ -78,11 +78,11 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 > [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine (K. Kassa)](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
 
+> [Dead Aid, Why Aid Is Not Working and How There Is a Better Way for Africa (D. Moyo)](https://dambisamoyo.com/book/dead-aid/)
+
 > [The Lightning Network Is Going to Change How You Think About Bitcoin, Coindesk (J. Wiser)](https://www.coindesk.com/lightning-network-how-you-think-about-bitcoin)
 
 > [Renewed Hope: How Bitcoin and Green Energy Can Save Ethioia's Economy, Forbes (M.L. Rivers)](https://www.forbes.com/sites/martinrivers/2021/07/13/renewed-hope-how-bitcoin-and-green-energy-can-save-ethiopias-economy/)
-
-> [Dead Aid - Why Aid Is Not Working and How There Is a Better Way for Africa, Dambisa Moyo](https://dambisamoyo.com/book/dead-aid/)
 
 **Sign Change.org Petition** 
 
