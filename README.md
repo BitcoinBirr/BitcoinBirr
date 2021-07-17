@@ -48,13 +48,13 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 **Media and Content**
 
+> [@TBD, Twitter](https://twitter.com/TBD54566975?s=09)
+
 > [@KalKassa, Twitter](https://twitter.com/KalKassa)
 
 > [@BitcoinBirr, Twitter](https://twitter.com/BitcoinBirr)
 
 > [@BitcoinNakfa, Twitter](https://twitter.com/BitcoinNakfa)
-
-> [@TBD, Twitter](https://twitter.com/TBD54566975?s=09)
 
 > [BitcoinBirr, Telegram](https://t.me/bitcoinbirr)
 
