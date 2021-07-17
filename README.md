@@ -104,6 +104,7 @@ Open source software is made by many people and distributed under an OSD-complia
 | *202* | Social Media Audience | Jan '22 | --- | :o: |
 | *203* | Ethiopian Business Community | Jan '22 | --- | :o: |
 | *204* | Translated Materials Release | Jan '22 | --- | :o: |
+| *205* | Article on Open Source in Africa | Jan '22 | --- | :o: |
 | *301* | 3750 New Lightning Wallets | Apr '22 | --- | :o: |
 | *302* | Social Media Audience | Apr '22 | --- | :o: |
 | *303* | Media Apperances | Apr '22 | --- | :o: |
