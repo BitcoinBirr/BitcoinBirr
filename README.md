@@ -127,6 +127,7 @@ Open source software is made by many people and distributed under an OSD-complia
 #OpenSource
 
 > Hosting provided by [Kal Kassa](https://www.linkedin.com/in/kalkassa/) :zap:
+
 > This site and all BitcoinBirr materials are licensed under [Attribution-Non Commercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![Footer - GitHub](https://user-images.githubusercontent.com/87287532/125327520-d2c06600-e308-11eb-913f-fb8df03b2abb.jpg)
