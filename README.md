@@ -31,7 +31,7 @@ It actually means Silver but over the years the two have come to mean the same t
 ![BitcoinBirr org - An Open Source Initative](https://user-images.githubusercontent.com/87287532/126019697-9833b9f5-8d98-4f03-b755-b0b1a4e6abfd.jpg)
 ![BitcoinBirr org - An Open Source Initative2](https://user-images.githubusercontent.com/87287532/126019723-c373317d-9d24-42a3-9263-9a5b689fc50b.jpg)
 ![BitcoinBirr org - An Open Source Initative3](https://user-images.githubusercontent.com/87287532/126019729-8928b138-1008-4da4-92eb-095cd51a73bf.jpg)
-![BitcoinBirr org - An Open Source Initative4](https://user-images.githubusercontent.com/87287532/126019731-90943872-66fa-4daf-9b94-04f295517e36.jpg)
+![BitcoinBirr org - An Open Source Initative4](https://user-images.githubusercontent.com/87287532/126026183-28b670e5-bd08-4a4d-80b7-76422c7a6d70.jpg)
 ![BitcoinBirr org - An Open Source Initative5](https://user-images.githubusercontent.com/87287532/126019733-0cf7ad63-cd12-469c-b88d-7019310f8693.jpg)
 ![BitcoinBirr org - An Open Source Initative6](https://user-images.githubusercontent.com/87287532/126019734-12d466fb-3ccd-4ee0-a148-37171a2320a6.jpg)
 ![BitcoinBirr org - An Open Source Initative7](https://user-images.githubusercontent.com/87287532/126019735-58022df1-c340-4c60-b0ac-44e52fd9b85a.jpg)
