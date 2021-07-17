@@ -70,8 +70,6 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 > [Number of User Go Up, Lightning Labs (R. Gentry)](https://lightninglabs.substack.com/p/number-of-users-go-up-bitcoin-is)
 
-> [One Love Bitcoin, Swan Bitcoin - YouTube (B. Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
-
 > [The Rise Of Open-Source Software, CNBC - YouTube (D. Zuegal)](https://www.youtube.com/watch?v=SpeDK1TPbew)
 
 > [Check Your Financial Privilege, Bitcoin Magazine (A. Gladstein)](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
@@ -79,6 +77,8 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 > [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine (K. Kassa)](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
 
 > [Dead Aid, Why Aid Is Not Working and How There Is a Better Way for Africa (D. Moyo)](https://dambisamoyo.com/book/dead-aid/)
+
+> [The Promised Land with Kal Kassa (Ethiopia) - One Love Bitcoin - YouTube (B. Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
 
 > [The Lightning Network Is Going to Change How You Think About Bitcoin, Coindesk (J. Wiser)](https://www.coindesk.com/lightning-network-how-you-think-about-bitcoin)
 
