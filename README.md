@@ -67,7 +67,7 @@ Unabased value should be a sovereign right. But since 1971, when the United Stat
 
 > [One Love Bitcoin, Swan Bitcoin - YouTube (B. Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
 
-> [The Rise Of Open-Source Software, CNBC - YouTube](https://www.youtube.com/watch?v=SpeDK1TPbew)
+> [The Rise Of Open-Source Software, CNBC - YouTube (D. Zuegal)](https://www.youtube.com/watch?v=SpeDK1TPbew)
 
 > [Check Your Financial Privilege, Bitcoin Magazine (A. Gladstein)](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
 
