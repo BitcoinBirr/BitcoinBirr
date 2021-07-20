@@ -82,6 +82,8 @@ It actually means Silver but over the years the two have come to mean the same t
 
 > [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine (K. Kassa)](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
 
+> [Financial Inclusion - BitcoinBirr and BitcoinNakfa with Kal Kassa (S. Gomez/Fleury)](https://anchor.fm/fosterinclusion/episodes/Episode-8-Financial-Inclusion---Bitcoin-Birr--Bitcoin-Nakfa-with-Kal-Kassa-e14o15d)
+
 > [The Promised Land with Kal Kassa (Ethiopia) - One Love Bitcoin, YouTube (B. Dread)](https://www.youtube.com/watch?v=Y2LieS43mVA)
 
 > [Dead Aid, Why Aid Is Not Working and How There Is a Better Way for Africa (D. Moyo)](https://dambisamoyo.com/book/dead-aid/)
