@@ -78,6 +78,8 @@ It actually means Silver but over the years the two have come to mean the same t
 
 > [The Rise Of Open-Source Software, CNBC - YouTube (D. Zuegal)](https://www.youtube.com/watch?v=SpeDK1TPbew)
 
+> [Check Your Financial Privilege, Bitcoin Audible (G. Swann)](https://anchor.fm/thecryptoconomy/episodes/Read_526---Check-Your-Financial-Privilege-Alex-Gladstein-e10p9vh)
+
 > [Check Your Financial Privilege, Bitcoin Magazine (A. Gladstein)](https://bitcoinmagazine.com/culture/check-your-financial-privilege)
 
 > [The Marathon - Ethiopia and Bitcoin, Bitcoin Magazine (K. Kassa)](https://bitcoinmagazine.com/culture/the-marathon-ethiopia-and-bitcoin)
