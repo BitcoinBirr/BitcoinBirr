@@ -99,6 +99,8 @@ It actually means Silver but over the years the two have come to mean the same t
 > [The Lightning Network Is Going to Change How You Think About Bitcoin, Coindesk (J. Wiser)](https://www.coindesk.com/lightning-network-how-you-think-about-bitcoin)
 > 
 > [Renewed Hope: How Bitcoin and Green Energy Can Save Ethioia's Economy, Forbes (M.L. Rivers)](https://www.forbes.com/sites/martinrivers/2021/07/13/renewed-hope-how-bitcoin-and-green-energy-can-save-ethiopias-economy/)
+>
+> [Kal Kassa, Bitcoin in Ethiopia: Episode 4, Changing the Tide (J. Crabtree)](https://www.youtube.com/watch?v=QFBUbxCXEzM)
 > 
 > [Bringing Bitcoin to Ethiopia with Kal Kassa - Bitcoin Magazine Podcast (C.Keroles)](https://www.youtube.com/watch?v=dknni_3ZspA)
 > 
