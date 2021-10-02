@@ -94,6 +94,14 @@ It actually means Silver but over the years the two have come to mean the same t
 
 > [Renewed Hope: How Bitcoin and Green Energy Can Save Ethioia's Economy, Forbes (M.L. Rivers)](https://www.forbes.com/sites/martinrivers/2021/07/13/renewed-hope-how-bitcoin-and-green-energy-can-save-ethiopias-economy/)
 
+> [Bringing Bitcoin to Ethiopia with Kal Kassa - Bitcoin Magazine Podcast (C.Keroles)](https://www.youtube.com/watch?v=dknni_3ZspA)
+
+> [#ETH Ethiopia and Bitcoin (Part 1), Genesis Block Education (bitcoinbymalx)](https://www.youtube.com/watch?v=GtNeytEiR9s&t=62s)
+
+> [#ETH Ethiopia and Lightning (Part 2), Genesis Block Education (bitcoinbymalx)](https://www.youtube.com/watch?v=_-5k9_eFFQ0&t=7s)
+
+> [Bitcoin in Ethiopia with @KalKassa, A Boy Named Pseu (Phil Gibson)](https://mrpseu.podbean.com/)
+
 **Sign Change.org Petition** 
 
 > [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
