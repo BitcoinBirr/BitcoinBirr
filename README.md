@@ -16,7 +16,7 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 > [BitcoinBirr/DataDump](https://github.com/BitcoinBirr/DataDump)
 
-> [BitcoinBirr/AddisAbabaHotels](https://gitbuh.com/BitcoinBirr/AddisAbabaHotels)
+> [BitcoinBirr/AddisAbabaHotels](https://github.com/BitcoinBirr/AddisAbabaHotels)
 
 
 # Organization
