@@ -8,7 +8,7 @@ I’m [BitcoinBirr](bitcoinbirr.org) :ethiopia:
 
 Tinkering with bitcoin for Ethiopia.
 
-Currently learning about money, bitcoin and mining/ renewable energy production.
+Currently learning about money, bitcoin and mining/ energy.
 
 Looking to collaborate on open source initiatives, particularly digital wallet education.
 
