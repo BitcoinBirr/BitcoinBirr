@@ -14,6 +14,8 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 > How to reach me kal@bitcoinbirr.org
 
+> [BitcoinBirr/Presentation](https://github.com/BitcoinBirr/Presentation)
+
 > [BitcoinBirr/Amharic](https://github.com/BitcoinBirr/Amharic)
 
 > [BitcoinBirr/Media](https://github.com/BitcoinBirr/Media)
