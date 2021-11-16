@@ -14,9 +14,9 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 > How to reach me kal@bitcoinbirr.org
 
-> [BitcoinBirr/DataDump](https://github.com/BitcoinBirr/DataDump)
-
 > [BitcoinBirr/Amharic](https://github.com/BitcoinBirr/Amharic)
+
+> [BitcoinBirr/DataDump](https://github.com/BitcoinBirr/DataDump)
 
 > [BitcoinBirr/AddisAbabaHotels](https://github.com/BitcoinBirr/AddisAbabaHotels)
 
