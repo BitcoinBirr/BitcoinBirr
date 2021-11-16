@@ -112,6 +112,9 @@ It actually means Silver but over the years the two have come to mean the same t
 > [#ETH Ethiopia and Lightning (Part 2), Genesis Block Education (bitcoinbymalx)](https://www.youtube.com/watch?v=_-5k9_eFFQ0&t=7s)
 > 
 > [Bitcoin in Ethiopia with @KalKassa, A Boy Named Pseu (P. Gibson)](https://mrpseu.podbean.com/)
+> 
+> [Cryptocurrency & related technologies with Kal Kassa | ክሪፕቶ ከረንሲ እና ትጓዳኝ ቴክኖሎጂዎች - Habesha in Tech, YouTube (T. Kassa)](https://www.youtube.com/watch?v=z6NcFJyZTGc)
+> 
 
 **What is Open Source?**
 
