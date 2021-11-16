@@ -6,11 +6,11 @@
 
 I’m [BitcoinBirr](bitcoinbirr.org) :ethiopia:
 
-Tinkering with bitcoin for Ethiopia.
+Tinkering with bitcoin for Ethiopia and Africa.
 
 Currently learning about money, bitcoin and mining/ energy.
 
-Looking to collaborate on open source initiatives, particularly digital wallet education.
+Looking to collaborate on open source initiatives, particularly digital wallet education and opens-source financial services.
 
 > How to reach me kal@bitcoinbirr.org
 
