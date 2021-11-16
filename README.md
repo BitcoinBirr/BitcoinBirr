@@ -12,8 +12,6 @@ Currently learning about money, bitcoin and mining/ energy.
 
 Looking to collaborate on open source initiatives, particularly digital wallet education and opens-source financial services.
 
-> How to reach me kal@bitcoinbirr.org
-
 > [BitcoinBirr/Presentation](https://github.com/BitcoinBirr/Presentation)
 
 > [BitcoinBirr/Amharic](https://github.com/BitcoinBirr/Amharic)
@@ -24,6 +22,7 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 > [BitcoinBirr/AddisAbabaHotels](https://github.com/BitcoinBirr/AddisAbabaHotels)
 
+> How to reach me kal@bitcoinbirr.org
 
 # Organization
 
