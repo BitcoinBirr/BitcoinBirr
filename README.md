@@ -135,12 +135,12 @@ Open source software is made by many people and distributed under an OSD-complia
 | *103* | GitHub Media Kit | Oct '21 | --- | :white_check_mark: |
 | *104* | Media Appearances | Oct '21 | --- | :white_check_mark: |
 | *105* | Twitter and Instagram | Oct '21 | --- | :white_check_mark: |
-| *106* | Secure Funding | Oct '21 | --- | :o: |
-| *107* | Procure Equipment | Oct '21 | --- | :o: |
-| *201* | 1000 New Lightning Wallets | Jan '22 | --- | :o: |
-| *202* | Social Media Audience | Jan '22 | --- | :o: |
+| *106* | Sat Giveaway | Oct '21 | --- | :white_check_mark: |
+| *107* | Procure Equipment | Oct '21 | --- | :white_check_mark: |
+| *201* | 1000 New Lightning Wallets | Jan '22 | --- | :white_check_mark: |
+| *202* | Social Media Audience | Jan '22 | --- | :white_check_mark: |
 | *203* | Ethiopian Business Community | Jan '22 | --- | :o: |
-| *204* | Translated Materials Release | Jan '22 | --- | :o: |
+| *204* | Translated Materials Release | Jan '22 | --- | :white_check_mark: |
 | *205* | Article on Open Source in Africa | Jan '22 | --- | :o: |
 | *301* | 3750 New Lightning Wallets | Apr '22 | --- | :o: |
 | *302* | Social Media Audience | Apr '22 | --- | :o: |
