@@ -117,8 +117,6 @@ It actually means Silver but over the years the two have come to mean the same t
 > 
 > [Cryptocurrency & related technologies with Kal Kassa | ክሪፕቶ ከረንሲ እና ትጓዳኝ ቴክኖሎጂዎች - Habesha in Tech, YouTube (T. Kassa)](https://www.youtube.com/watch?v=z6NcFJyZTGc)
 > 
-> [ቢትኮይን.com](https://github.com/BitcoinBirr)
-> 
 **What is Open Source?**
 
 To promote and protect open source software and communities...
