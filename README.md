@@ -26,13 +26,13 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 > How to reach me kal@bitcoinbirr.org
 
-**Bitcoin 101 - WATCH EVENT**
+**Bitcoin 101 - WATCH FREE EVENT**
 
 [![Bitcoin 101, Mockup](https://user-images.githubusercontent.com/87287532/163726400-d19cdcc5-86b9-4ff8-a9ff-28e22eb9a71f.jpg)](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
 
-“Bitcoin and its possibilities in Ethiopia” [Bitcoin 101.pdf](https://github.com/BitcoinBirr/BitcoinLectures#:~:text=possibilities%20in%20Ethiopia%E2%80%9D-,Bitcoin%20101.pdf,-Thursday%20Feb.%2024th) Thursday Feb. 24th, 2022 5:30pm - 8:30pm Metro, Hyatt Regency Addis Ababa, Ethiopia
+“Bitcoin and its possibilities in Ethiopia” Thursday Feb. 24th, 2022 5:30pm - 8:30pm Metro, Hyatt Regency Addis Ababa, Ethiopia
 
-Kal Kassa gives presentation and Q/A discussion to audience in Addis Ababa. /[Watch Full YouTube Video HERE]/(https://www.youtube.com/watch?v=Wf0PQMwfVT8)
+Kal Kassa gives presentation and Q/A discussion to audience in Addis Ababa. [Watch Full YouTube Video HERE](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
 
 # Organization
 
