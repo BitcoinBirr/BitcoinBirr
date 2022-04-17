@@ -26,6 +26,14 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 > How to reach me kal@bitcoinbirr.org
 
+**Bitcoin 101 - Flawless Events, Hyatt Regency**
+
+[![Bitcoin 101, Mockup](https://user-images.githubusercontent.com/87287532/163726400-d19cdcc5-86b9-4ff8-a9ff-28e22eb9a71f.jpg)](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
+
+Kal Kassa gives presentation and Q/A discussion to audience in Addis Ababa.
+
+Watch Full YouTube Video [HERE](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
+
 # Organization
 
 **Bitcoin for Ethiopia**
@@ -81,15 +89,6 @@ Open source software is made by many people and distributed under an OSD-complia
 #Ethiopia
 #Education
 #OpenSource
-
-
-**Bitcoin 101 - Flawless Events, Hyatt Regency**
-
-[![Bitcoin 101, Mockup](https://user-images.githubusercontent.com/87287532/163726400-d19cdcc5-86b9-4ff8-a9ff-28e22eb9a71f.jpg)](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
-
-Kal Kassa gives presentation and Q/A discussion to audience in Addis Ababa.
-
-Watch Full YouTube Video [HERE](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
 
 **Sign Change.org Petition** 
 
