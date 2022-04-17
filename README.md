@@ -26,7 +26,7 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 **Bitcoin 101 - WATCH FREE EVENT**
 
-[(![Bitcoin 101, Mockup](https://user-images.githubusercontent.com/87287532/163727882-507f8478-7b2e-4892-a571-fcded378eb90.jpg)
+[![Bitcoin 101, Mockup](https://user-images.githubusercontent.com/87287532/163727882-507f8478-7b2e-4892-a571-fcded378eb90.jpg)
 )](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
 
 “Bitcoin and its possibilities in Ethiopia” Thursday Feb. 24th, 2022 5:30pm - 8:30pm Metro, Hyatt Regency Addis Ababa, Ethiopia
