@@ -85,7 +85,7 @@ Open source software is made by many people and distributed under an OSD-complia
 
 **Bitcoin 101 - Flawless Events, Hyatt Regency**
 
-[<img width="1269" alt="Screen Shot 2022-04-17 at 12 16 07 PM" src="https://user-images.githubusercontent.com/87287532/163725306-d0d2eeb6-74f5-4452-8954-a6607abd9152.png">](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
+[[![Bitcoin 101, Mockup](https://user-images.githubusercontent.com/87287532/163726238-dda78110-fe83-4e08-8849-d9b1180a6afa.jpg)](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
 
 Kal Kassa gives presentation and Q/A discussion to audience in Addis Ababa.
 
