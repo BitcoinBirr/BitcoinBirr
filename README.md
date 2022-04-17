@@ -93,7 +93,7 @@ WATCH FULL YOUTUBE VIDEO [HERE](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
 
 > [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
 
-> Hosting provided by [Kal Kassa](https://www.linkedin.com/in/kalkassa/) and [DIDIBold](https://www.didibold.com) :zap:
+> Hosting provided by [Kal Kassa](https://www.linkedin.com/in/kalkassa/) :zap:
 
 > This site and all BitcoinBirr materials are licensed under [Attribution-Non Commercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
