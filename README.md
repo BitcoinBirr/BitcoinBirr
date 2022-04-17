@@ -82,6 +82,13 @@ Open source software is made by many people and distributed under an OSD-complia
 #Education
 #OpenSource
 
+
+**Bitcoin 101, Flawless Events, Hyatt Regency**
+
+[<img width="1269" alt="Screen Shot 2022-04-17 at 12 16 07 PM" src="https://user-images.githubusercontent.com/87287532/163725306-d0d2eeb6-74f5-4452-8954-a6607abd9152.png">](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
+
+WATCH FULL YOUTUBE VIDEO [HERE](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
+
 **Sign Change.org Petition** 
 
 > [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
