@@ -14,7 +14,7 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 > [BitcoinBirr/BitcoinLectures](https://github.com/BitcoinBirr/BitcoinLectures) 
 
-> [BitcoinBirr/Presentation](https://github.com/BitcoinBirr/Presentation)
+> [BitcoinBirr/About-BitcoinBirr](https://github.com/BitcoinBirr/About-BitcoinBirr)
 
 > [BitcoinBirr/Amharic](https://github.com/BitcoinBirr/Amharic)
 
