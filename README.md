@@ -32,9 +32,7 @@ Looking to collaborate on open source initiatives, particularly digital wallet e
 
 Kal Kassa gives presentation and Q/A discussion to audience in Addis Ababa. [Watch Full YouTube Video HERE](https://www.youtube.com/watch?v=Wf0PQMwfVT8)
 
-**Sign Change.org Petition** 
-
-> [change.org/p/ministry-of-finance-and-economic-development-bitcoin](https://www.change.org/p/ministry-of-finance-and-economic-development-bitcoin-legal-tender-for-ethiopia?cs_tk=Ai9KsD2NlRJESBoa2WAAAXicyyvNyQEABF8BvCsonINwtGMNtaTImkkFxVI%3D&utm_campaign=820b2f2963ba4d5c9e1dfe14cb500061&utm_content=initial_v0_2_0&utm_medium=email&utm_source=recruit_sign_digest&utm_term=cs)
+**Hosting and Licenses** 
 
 > Hosting provided by [Kal Kassa](https://www.linkedin.com/in/kalkassa/) :zap:
 
