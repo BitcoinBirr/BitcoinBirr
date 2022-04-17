@@ -65,15 +65,15 @@ Open source software is made by many people and distributed under an OSD-complia
 | *107* | Procure Equipment | Oct '21 | --- | :white_check_mark: |
 | *201* | 1000 New Lightning Wallets | Jan '22 | --- | :white_check_mark: |
 | *202* | Social Media Audience | Jan '22 | --- | :white_check_mark: |
-| *203* | Ethiopian Business Community | Jan '22 | --- | :o: |
+| *203* | Ethiopian Business Community | Jan '22 | --- | :white_check_mark: |
 | *204* | Translated Materials Release | Jan '22 | --- | :white_check_mark: |
 | *205* | Article on Open Source in Africa | Jan '22 | --- | :o: |
-| *301* | 3750 New Lightning Wallets | Apr '22 | --- | :o: |
-| *302* | Social Media Audience | Apr '22 | --- | :o: |
-| *303* | Media Apperances | Apr '22 | --- | :o: |
+| *301* | 3750 New Lightning Wallets | Apr '22 | --- | :white_check_mark: |
+| *302* | Social Media Audience | Apr '22 | --- | :white_check_mark: |
+| *303* | Media Apperances | Apr '22 | --- | :white_check_mark: |
 | *304* | Strategic Objectives Review | Apr '22 | --- | :o: |
 | *401* | 10000 New Lightning Wallets | July '22 | --- | :o: |
-| *402* | Social Media Audience | July '22 | --- | :o: |
+| *402* | Social Media Audience | July '22 | --- | :white_check_mark: |
 | *403* | Ethiopian Government Stakeholders | July '22 | --- | :o: |
 | *404* | Grow learning beyond to Eritrea, Sudan and Somalia | July '22 | --- | :o: |
 
