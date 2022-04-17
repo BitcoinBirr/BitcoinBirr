@@ -12,7 +12,7 @@ Currently learning about money, bitcoin and mining/ energy.
 
 Looking to collaborate on open source initiatives, particularly digital wallet education and opens-source financial services.
 
-> [BitcoinBirr/About-BitcoinBirr](https://github.com/BitcoinBirr/About-BitcoinBirr)
+> [BitcoinBirr/About](https://github.com/BitcoinBirr/About)
 
 > [BitcoinBirr/BitcoinLectures](https://github.com/BitcoinBirr/BitcoinLectures) 
 
