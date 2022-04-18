@@ -4,13 +4,7 @@
 
 **Hello World**
 
-I’m [BitcoinBirr](bitcoinbirr.org) :ethiopia:
-
-Tinkering with bitcoin for Ethiopia and Africa.
-
-Currently learning about money, bitcoin and mining/ energy.
-
-Looking to collaborate on open source initiatives, particularly digital wallet education and opens-source financial services.
+I’m [BitcoinBirr](bitcoinbirr.org) :ethiopia: Tinkering with bitcoin for Ethiopia and Africa. Currently learning about money, bitcoin and mining/ energy. Looking to collaborate on open source initiatives, particularly digital wallet education and opens-source financial services.
 
 > [BitcoinBirr/About](https://github.com/BitcoinBirr/About)
 
