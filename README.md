@@ -18,8 +18,6 @@ Tinkering with bitcoin for Ethiopia and Africa. Currently learning about money, 
 
 > [BitcoinBirr/DataDump](https://github.com/BitcoinBirr/DataDump)
 
-> [BitcoinBirr/Ethiopia](https://github.com/BitcoinBirr/Ethiopia)
-
 > How to reach me kal@bitcoinbirr.org
 
 **Bitcoin 101 - WATCH FREE EVENT**
